@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MokejimoSistema", "MokejimoSistema\MokejimoSistema.csproj", "{9971ED1E-24B3-40FB-A43E-514E9F387E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MokejimoSistema.Core", "MokejimoSistema.Core\MokejimoSistema.Core.csproj", "{4E61E79B-4194-40D1-914B-D0F0369058FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9971ED1E-24B3-40FB-A43E-514E9F387E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9971ED1E-24B3-40FB-A43E-514E9F387E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9971ED1E-24B3-40FB-A43E-514E9F387E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9971ED1E-24B3-40FB-A43E-514E9F387E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E61E79B-4194-40D1-914B-D0F0369058FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E61E79B-4194-40D1-914B-D0F0369058FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E61E79B-4194-40D1-914B-D0F0369058FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E61E79B-4194-40D1-914B-D0F0369058FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E4DF380-C7F1-4B37-8C42-5C4BB81F5C93}
+	EndGlobalSection
+EndGlobal
